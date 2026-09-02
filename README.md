@@ -6,7 +6,7 @@ Arquitectura de Procesadores - Grupo 1 Equipo 9
 Este es el repositorio número 9 del la asignatura Arquitectura de Procesadores.
 
 ## Integrantes
-    * [<!-- Juan Pablo Rodriguez Triana. -->](<!-- Remplace aqui link de usario 1 de github -->) 
-    * [<!-- Luis Alejandro Murillo Lopez. -->](<!-- Remplace aqui link de usario 2 de github -->) 
-    * [<!-- Diego Esteban Bravo Velasquez. -->](<!-- Remplace aqui link de usario 3 de github -->) 
+    * [<!-- Juan Pablo Rodriguez Triana. -->](<!-- https://github.com/juanprodriguezt-05 -->) 
+    * [<!-- Luis Alejandro Murillo Lopez. -->](<!-- https://github.com/luisalmurillolo-wq -->) 
+    * [<!-- Diego Esteban Bravo Velasquez. -->](<!-- https://github.com/diegoesbravove -->) 
 
